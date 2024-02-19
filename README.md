@@ -9,8 +9,7 @@ Computational physics often involves solving differential equations that explain
 
 ### Instructions
 
-Just setup the env using requirements file and run the notebooks.
-
+Just make sure requirements are met and run the notebooks.
 
 
 ### Cite:
